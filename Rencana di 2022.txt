@@ -5,3 +5,4 @@ Goals di tahun 2022
 - Mempunyai brand outdoor
 - Mempunyai persewaan outdoor
 - Ganti HP Iphone
+- Membuat website dengan framework
